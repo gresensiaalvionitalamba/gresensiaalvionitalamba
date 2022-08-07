@@ -7,8 +7,8 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <br />
 
 <p align="center">
-  <a href="www.linkedin.com/in/gresensia-alvionita-lamba">
-    <img height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/linkedin.png" alt="linkedin logo png">
+  <a href="https://www.linkedin.com/in/gresensia-alvionita-lamba">
+    <img height="30" src="https://github.com/icalbalino/icalbalino/blob/master/asset/linkedin.png" alt="linkedin logo png">
   </a>
   &nbsp;
   <a href="https://www.instagram.com/gresensia_">
