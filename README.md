@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm gresensia 👋</h1>
 <p align="center">
-Sometimes I like coding. I'm a software engineer who passionate about web development. I learn HTML, CSS, JavaScript, CSs stuff and still know nothing. but I do know something.
+Sometimes I like coding. I'm a product management. I learn Product Management, HTML, CSS, JavaScript, CSs stuff and still know nothing. but I do know something.
 </p>
 
 <br />
@@ -8,7 +8,7 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gresensia-alvionita-lamba">
-    <img height="27" src="https://github.com/icalbalino/icalbalino/blob/master/asset/linkedin.png" alt="linkedin logo png">
+    <img height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/linkedin.png" alt="linkedin logo png">
   </a>
   &nbsp;
   <a href="https://www.instagram.com/gresensia_">
